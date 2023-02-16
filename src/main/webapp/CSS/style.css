@@ -1,0 +1,88 @@
+.btr{
+	padding:.5vw 1.4vw;
+	color:white;
+	background-color:blue;
+	border:none;
+	border-radius: .5vw;
+	text-decoration: none;
+	cursor: hand;
+	font-size:2vw;
+}
+.dvh{
+	width:90%;
+	margin:auto;
+	margin-top:2vw;
+	margin-bottom:.5vw;
+}
+.dvb{
+	border:2px outset black;
+	width:90%;
+	margin:auto;	
+}
+.dv{
+	margin-top:4.5vw;
+	text-align: center
+}
+.dvv{
+	text-align: center;
+	margin-top:1vw;
+}
+.dhm{
+	font-size:2vw;
+	font-family:georgia; 
+}
+.ta{
+	margin:auto;
+	border-collapse:collapse;
+	width:97%;
+	margin-top:10px;
+	margin-bottom:10px;
+	font-size:20px;
+	color:white;
+	background-color:navy;
+}
+body{
+	background-color:cyan;
+}
+.tb{
+	font-size:1.6vw;
+	border-radius: .3vw;
+}
+.bt{
+	padding:.3vw 1.4vw;
+	color:white;
+	background-color:#199AFF;
+	border:none;
+	border-radius: .5vw;
+	cursor: hand;
+	font-size:1.6vw;
+	text-decoration: none;
+}
+.bt:hover{
+	background-color:gray;
+}
+.taf{
+	border:.3vw solid teal;
+	margin:auto;
+	margin-top:3vw;
+	font-size:2vw;
+	border-radius: .4vw;
+	background-color:silver;
+	color:white;
+}
+.pdf{
+	padding:1.3vw;
+}
+.aan{
+	color:white;
+	font-size:1.7vw;
+}
+th{
+	text-align: left;
+}
+span{
+	color:red;
+}
+.la{
+	font-size:1.5vw;
+}
